@@ -1,2 +1,6 @@
 apple
 mango
+
+water melon
+grapes
+banana
